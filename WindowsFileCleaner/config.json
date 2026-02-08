@@ -1,0 +1,17 @@
+{   
+    "daysToDelete" : 30,
+    "paths" : [
+        {
+            "folderPath" : "C:\\Users\\*\\AppData\\Local\\Microsoft\\Edge\\User Data\\Default\\Cache"
+        },
+        {
+            "folderPath" : "C:\\Users\\*\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache"
+        },
+        {
+            "folderPath" : "C:\\Users\\*\\AppData\\Local\\Temp"
+        },
+        {
+            "folderPath" : "C:\\Users\\*\\Downloads"
+        }
+    ]
+}
